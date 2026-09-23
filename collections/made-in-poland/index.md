@@ -19,6 +19,8 @@ items:
  - wuub/SublimeREPL
  - graphql-hive/graphql-config
  - invpe/GridShell
+ - krzyzanowskim/CryptoSwift
+ - krzyzanowskim/STTextView
 
 display_name: Made in Poland
 created_by: Tymek
